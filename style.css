@@ -68,11 +68,7 @@ header {
   align-items: center;
   margin-bottom: 0;
 }
-.icon {
-  width: 120px; /* Set a specific width */
-  height: 120px; /* Set a specific height */
-  object-fit: contain; /* Ensure it scales properly */
-}
+
 .listItem {
   margin-right: 3rem;
   list-style: none;
